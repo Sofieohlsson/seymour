@@ -1,0 +1,19 @@
+.randomSelectorWrapper {
+    text-align: center;
+}
+
+.randomSelectorBtn {
+    background-color: transparent;
+    border: 3px solid #d7cea0;
+    border-radius: 25px;
+    color: #263506;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block; 
+    font-size: 16px;
+}
+
+.randomSelectorBtn:hover {
+    color: gold;
+}

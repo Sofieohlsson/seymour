@@ -1,7 +1,9 @@
+import "./Footer.css"
+
 function Footer() {
     return (
-        <div>
-            I am footer
+        <div className="footer">
+            <p>© 2022 Seymour</p>
         </div>
     );
 }

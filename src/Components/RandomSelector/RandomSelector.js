@@ -1,7 +1,9 @@
+import "./RandomSelector.css"
+
 function RandomSelector() {
     return (
-        <div>
-            I am RandomSelector
+        <div className="randomSelectorWrapper">
+            <button className="randomSelectorBtn">Random Food</button>
         </div>
     ); 
 }

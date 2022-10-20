@@ -1,7 +1,10 @@
+import logo from "../../Assets/Images/header.jpg"
+import "./Header.css"
+
 function Header() {
     return (
         <div>
-         I am header 
+         <img className="headerImg" src={logo}></img>
         </div> 
     ); 
 
